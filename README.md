@@ -4,6 +4,7 @@ FOR ARCHIVAL
  By: H4x0rSpooky
  
 for archival purposes, since the owner of the original got banned for posting a plugin he should'nt have.
+
 i would continue development from here but i dont know how to develop ctrpf plugins :(
 
 Grabs the Principal ID of any Mario Kart 7 player you come across.
