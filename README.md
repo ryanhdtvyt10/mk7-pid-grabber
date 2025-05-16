@@ -25,4 +25,4 @@ Before booting, be sure plugin loader in luma is enabled. l+down+select -> plugi
 
 Upon booting mk7, your screen should flash a color. Press select to open the menu.
 
-When joining an online match, the plugin should automatically log the pricipal id of the players you come across, as well as being able to detect spoofed pid's
+When joining an online match, the plugin should automatically log the principal id of the players you come across, as well as being able to detect spoofed pid's
